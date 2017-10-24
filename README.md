@@ -12,3 +12,6 @@ These are basic snapshots of the output generated from my solution examples.
 
 #### Week 4
 [Probability Example Spades](http://andrewdavidknight.com/projects/mspa-predict400/wk4/Probability_Example_Spades.html)
+
+#### Week 6
+[Rate of Change](http://)
