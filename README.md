@@ -14,4 +14,4 @@ These are basic snapshots of the output generated from my solution examples.
 [Probability Example Spades](http://andrewdavidknight.com/projects/mspa-predict400/wk4/Probability_Example_Spades.html)
 
 #### Week 6
-[Rate of Change](http://)
+[Rate of Change](http://andrewdavidknight.com/projects/mspa-predict400/wk6/Simple%2BConvergence%2BGraphs%2Busing%2BPlotly.html)
