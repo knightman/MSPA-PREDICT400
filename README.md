@@ -15,3 +15,6 @@ These are basic snapshots of the output generated from my solution examples.
 
 #### Week 6
 [Rate of Change](http://andrewdavidknight.com/projects/mspa-predict400/wk6/Simple%2BConvergence%2BGraphs%2Busing%2BPlotly.html)
+
+#### Week 7
+[Derivative Examples](http://andrewdavidknight.com/projects/mspa-predict400/wk7/Wk7%2BHomework.html)
