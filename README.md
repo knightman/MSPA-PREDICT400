@@ -18,3 +18,9 @@ These are basic snapshots of the output generated from my solution examples.
 
 #### Week 7
 [Derivative Examples](http://andrewdavidknight.com/projects/mspa-predict400/wk7/Wk7%2BHomework.html)
+
+#### Week 8
+[Fundamental Theorem](http://andrewdavidknight.com/projects/mspa-predict400/wk8/Fundamental+Theorem.html)
+
+#### Week 9
+[Probability Density](http://andrewdavidknight.com/projects/mspa-predict400/wk9/Probability%2BDensity%2BFunction.html)
